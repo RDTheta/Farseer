@@ -18,7 +18,7 @@ Current possible consequences (blockers)
 
 > Uncontolable impact on the cryptocurrency market
 >
-> All expected sociel and community changes
+> All expected social and community changes
 >
 > Major intersections with Zoera Engine if these two entities will be in one flow
 
